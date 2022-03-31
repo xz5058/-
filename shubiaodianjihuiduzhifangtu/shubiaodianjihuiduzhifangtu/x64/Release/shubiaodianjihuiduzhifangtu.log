@@ -1,0 +1,17 @@
+﻿  shubiaodianjihuiduzhifangtu.cpp
+G:\xianyuwenjian\xuanqudiandehuidutu\shubiaodianjihuiduzhifangtu\shubiaodianjihuiduzhifangtu\shubiaodianjihuiduzhifangtu.cpp(66,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+G:\xianyuwenjian\xuanqudiandehuidutu\shubiaodianjihuiduzhifangtu\shubiaodianjihuiduzhifangtu\shubiaodianjihuiduzhifangtu.cpp(66,23): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  正在生成代码
+  3 of 247 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  shubiaodianjihuiduzhifangtu.vcxproj -> G:\xianyuwenjian\xuanqudiandehuidutu\shubiaodianjihuiduzhifangtu\x64\Release\shubiaodianjihuiduzhifangtu.exe
